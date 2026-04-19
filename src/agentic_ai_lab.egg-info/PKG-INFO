@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: agentic-ai-lab
+Version: 0.1.0
+Summary: Agentic AI Lab
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+
+uv pip install <package name>
+uv pip freeze > requirements.txt
+
+

@@ -1,0 +1,2 @@
+[console_scripts]
+agentic-ai-lab = src.agents.basic_openai_agent:main
