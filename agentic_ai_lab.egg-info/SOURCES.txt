@@ -11,5 +11,7 @@ apps/api.py
 apps/chatbot.py
 src/__init__.py
 src/agents/__init__.py
+src/agents/basic_2_openai_agent.py
 src/agents/basic_openai_agent.py
+src/utils/cache.py
 src/utils/config.py

@@ -11,6 +11,7 @@ requires-python = ">=3.12"
 
 [project.scripts]
 agentic-ai-lab = "src.agents.basic_openai_agent:main"
+agentic-ai-lab2 = "src.agents.basic_2_openai_agent:main"
 
 [tool.setuptools.packages.find]
 where = ["."]
